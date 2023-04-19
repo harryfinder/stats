@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18d137cd-c32f-44c2-915c-4ff534e6dd2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pkg/stats/go.mod" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pkg/stats/go.sum" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pkg/stats/stats.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/stats/stats.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pkg/stats/stats_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/stats/stats_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/types.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
